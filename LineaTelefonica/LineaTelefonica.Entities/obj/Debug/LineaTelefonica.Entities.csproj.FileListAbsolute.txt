@@ -1,0 +1,8 @@
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb

@@ -1,0 +1,16 @@
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.exe.config
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.exe
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.pdb
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.Console.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.exe
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.pdb
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.exe.config
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.exe
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.pdb
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Entities.dll
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Entities.pdb
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.Console.csprojResolveAssemblyReference.cache
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.exe
+D:\rolandelac\Escritorio\linea telefonica\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.pdb
